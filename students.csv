@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Maths,Physics,Chemistry,English,Computer_Science,Attendance
+S001,Aarav Kumar,AI & DS,92,88,85,78,95,96
+S002,Divya Lakshmi,AI & DS,78,72,80,85,88,92
+S003,Karthik Raja,CSE,65,58,62,70,74,84
+S004,Meena Sundaram,AI & DS,88,91,86,90,93,98
+S005,Nikhil Varma,ECE,45,52,48,60,55,72
+S006,Priya Dharshini,CSE,82,79,84,88,90,94
+S007,Rahul Menon,ECE,35,42,38,55,48,64
+S008,Sneha Iyer,AI & DS,95,93,90,92,97,99
+S009,Suresh Babu,Mechanical,58,61,55,64,60,80
+S010,Tharun Prasad,CSE,72,68,75,70,82,88
+S011,Uma Maheswari,ECE,68,74,70,76,72,90
+S012,Vijay Anand,Mechanical,40,45,42,50,44,70
+S013,Yamini Devi,AI & DS,85,82,88,80,91,95
+S014,Zaheer Ahmed,CSE,55,60,52,66,70,78
+S015,Anitha Selvam,ECE,76,70,73,82,78,91
+S016,Bharath Kumar,Mechanical,62,57,64,60,58,82
+S017,Chitra Devi,AI & DS,90,87,92,85,94,97
+S018,Dinesh Raj,CSE,48,52,45,58,62,74
+S019,Eswari Murugan,ECE,80,76,78,84,81,93
+S020,Farhan Ali,Mechanical,38,44,41,52,46,66
